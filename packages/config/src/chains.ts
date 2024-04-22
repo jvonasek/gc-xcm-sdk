@@ -1046,7 +1046,7 @@ export const nodle = new Parachain({
   name: 'Nodle',
   parachainId: 2026,
   ss58Format: 37,
-  ws: 'wss://eden-rpc.dwellir.com',
+  ws: 'wss://nodle-rpc.dwellir.com',
 });
 
 export const originTrail = new Parachain({
